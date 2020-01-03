@@ -6,6 +6,6 @@
 * [Publiction](publiction.md)
 * [Talk](talk/README.md)
   * [Untitled](talk/untitled.md)
-* [Blog & Post](test-title/README.md)
-  * [Untitled](test-title/untitled.md)
+* [Blog & Post](blog-post/README.md)
+  * [Untitled](blog-post/untitled.md)
 
