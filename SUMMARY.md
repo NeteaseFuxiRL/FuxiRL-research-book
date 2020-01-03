@@ -7,6 +7,6 @@
   * [Untitled](talk/untitled.md)
 * [Blog & Post](blog-post/README.md)
   * [Untitled](blog-post/untitled.md)
-* [Open Reseach](open-research/README.md)
+* [Open Research](open-research/README.md)
   * [对手隐藏风格识别](open-research/对手隐藏风格识别.md)
 
