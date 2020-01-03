@@ -2,8 +2,7 @@
 
 * [About](README.md)
 * [Project](project/README.md)
-  * [project2](project/project2.md)
-  * [project1](project/project1.md)
+  * [对手隐藏风格识别](project/对手隐藏风格识别.md)
 * [Publiction](publiction.md)
 * [Talk](talk/README.md)
   * [Untitled](talk/untitled.md)
