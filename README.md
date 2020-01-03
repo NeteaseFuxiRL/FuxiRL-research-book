@@ -1,4 +1,7 @@
-# About
+# Fuxi RL Team
+## News
+
+## Members
 
 ## Fuxi Lab
 

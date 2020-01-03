@@ -1,7 +1,7 @@
 # Table of contents
 
-* [About](README.md)
-* [Publiction](publiction.md)
+* [Fuxi RL Team](README.md)
+* [Publication](publication.md)
 * [Project](project/README.md)
 * [Talk](talk/README.md)
   * [Untitled](talk/untitled.md)
