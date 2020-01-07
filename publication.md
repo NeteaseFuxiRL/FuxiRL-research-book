@@ -16,7 +16,7 @@
 
 7. Weixun Wang, Tianpei Yang, Yong Liu, Jianye Hao, Xiaotian Hao, Yujing Hu, Yingfeng Chen, Changjie Fan, Yang Gao. **From Few to More: Large-scale Dynamic Multiagent Curriculum Learning,**_The Thirty-Fourth AAAI Conference on Artificial Intelligence \( AAAI 2020\)_ <br> Resource: \[ [pdf](https://arxiv.org/abs/1909.02790) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website\]
 
-8. Yong Liu, Weixun Wang, Yujing Hu, Jianye Hao, Xingguo Chen, Yang Gao. **Multi-Agent Game Abstraction via Graph Attention Neural Network,**_The Thirty-Fourth AAAI Conference on Artificial Intelligence \( AAAI 2020\)_ <br> Resource: \[ [pdf](https://arxiv.org/abs/1911.10715) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website
+8. Yong Liu, Weixun Wang, Yujing Hu, Jianye Hao, Xingguo Chen, Yang Gao. **Multi-Agent Game Abstraction via Graph Attention Neural Network,**_The Thirty-Fourth AAAI Conference on Artificial Intelligence \( AAAI 2020\)_ <br> Resource: \[ [pdf](https://arxiv.org/abs/1911.10715) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website\]
 
 9. Jiacheng Zhu, JiaHao Lin, Meng Wang, Yingfeng Chen, Changjie Fan, Zongzhang Zhang.**Generative Adversarial Imitation Learning from Failure Experience,**_The Thirty-Fourth AAAI Conference on Artificial Intelligence \( AAAI 2020 Workshop\)_ <br> Resource: \[ pdf &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website\]
 
