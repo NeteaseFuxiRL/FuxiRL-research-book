@@ -1,9 +1,10 @@
 # Fuxi RL Team
 ## News
-	+ ***20 Dec 2019***: Our paper "Action Relation Network: Considering the Effects of Actions in Multiagent Systems" is accepted by ICLR 2020
-	+ ***19 Dec 2019***: Our presentation "Building Intelligent Game Testing System in Netease MMORPG Game" is accepted by [AI Summit GDC 2020]
-(https://schedule.gdconf.com/session/machine-learning-summit-building-intelligent-game-testing-system-in-netease-mmorpg-game/870815) 
-	+ ***11 Nov 2019***: 2  regular and 1 workshop paper are accepted by AAAI 2020, "Multi-Agent Game Abstraction via Graph Attention Neural Networks", "From Less to More: A Dynamic Agent Number Network for Large-scale Multiagent Curriculum Learning", "Generative Adversarial Imitation Learning from Failure Experience"
++ ***20 Dec 2019***: Our paper "Action Relation Network: Considering the Effects of Actions in Multiagent Systems" is accepted by ICLR 2020
+
++ ***19 Dec 2019***: Our presentation "Building Intelligent Game Testing System in Netease MMORPG Game" is accepted by [AI Summit GDC 2020](https://schedule.gdconf.com/session/machine-learning-summit-building-intelligent-game-testing-system-in-netease-mmorpg-game/870815) 
+
++ ***11 Nov 2019***: 2  regular and 1 workshop paper are accepted by AAAI 2020, "Multi-Agent Game Abstraction via Graph Attention Neural Networks", "From Less to More: A Dynamic Agent Number Network for Large-scale Multiagent Curriculum Learning", "Generative Adversarial Imitation Learning from Failure Experience"
 
 ## Members
 
