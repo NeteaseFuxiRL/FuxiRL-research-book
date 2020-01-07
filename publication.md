@@ -14,6 +14,11 @@
 
 6. Yan Zheng, Ruiming Shen, Xiaofei Xie, Jianye Hao et al. **Wuji: Automatic Online Combat Game Testing Using Evolutionary Deep Reinforcement Learning,**_The 34th IEEE/ACM International Conference on Automated Software Engineering \(ASE 2019\)_ \[_**distinguished paper**_\] <br> Resource: \[ [pdf](https://2019.ase-conferences.org/details/ase-2019-papers/39/Wuji-Automatic-Online-Combat-Game-Testing-Using-Evolutionary-Deep-Reinforcement-Lear) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; [website](https://sites.google.com/view/gametesting/home)\]
 
+7. Weixun Wang, Tianpei Yang, Yong Liu, Jianye Hao, Xiaotian Hao, Yujing Hu, Yingfeng Chen, Changjie Fan, Yang Gao. **From Few to More: Large-scale Dynamic Multiagent Curriculum Learning,**_The Thirty-Fourth AAAI Conference on Artificial Intelligence \( AAAI 2020\)_ <br> Resource: \[ [pdf](https://arxiv.org/abs/1909.02790) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website
+
+8. Yong Liu, Weixun Wang, Yujing Hu, Jianye Hao, Xingguo Chen, Yang Gao. **Multi-Agent Game Abstraction via Graph Attention Neural Network,**_The Thirty-Fourth AAAI Conference on Artificial Intelligence \( AAAI 2020\)_ <br> Resource: \[ [pdf](https://arxiv.org/abs/1911.10715) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website
+
+9. Jiacheng Zhu, JiaHao Lin, Meng Wang, Yingfeng Chen, Changjie Fan, Zongzhang Zhang.**Generative Adversarial Imitation Learning from Failure Experience,**_The Thirty-Fourth AAAI Conference on Artificial Intelligence \( AAAI 2020 Workshop\)_ <br> Resource: \[ pdf &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website
 
 
 ## 2018
