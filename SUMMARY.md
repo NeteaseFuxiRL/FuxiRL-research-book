@@ -10,5 +10,10 @@
 * [Open Research](open-research/README.md)
   * [对手隐藏风格识别](open-research/对手隐藏风格识别.md)
   * [强化学习状态特征表示学习](open-research/强化学习状态特征表示学习.md)
+  * [复杂3D游戏场景的地形状态表示](open-research/复杂3D游戏场景的地形状态表示.md)
+  * [强化学习模型在类似场景可迁移性](open-research/强化学习模型在类似场景可迁移性.md)
+  * [游戏AI风格多样化](open-research/游戏AI风格多样化.md)
+  * [多风格数据下的模仿学习](open-research/多风格数据下的模仿学习.md)
+  * [非最优专家样本情况下的模仿学习](open-research/非最优专家样本情况下的模仿学习.md)
   * [自适应课程学习](open-research/自适应课程学习.md)
 
