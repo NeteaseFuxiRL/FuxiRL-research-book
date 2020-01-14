@@ -10,4 +10,5 @@
 * [Open Research](open-research/README.md)
   * [对手隐藏风格识别](open-research/对手隐藏风格识别.md)
   * [强化学习状态特征表示学习](open-research/强化学习状态特征表示学习.md)
+  * [自适应课程学习](open-research/自适应课程学习.md)
 
