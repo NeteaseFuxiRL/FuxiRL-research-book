@@ -12,4 +12,5 @@
   * [强化学习状态特征表示学习](open-research/强化学习状态特征表示学习.md)
   * [复杂3D游戏场景的地形状态表示](open-research/复杂3D游戏场景的地形状态表示.md)
   * [强化学习模型在类似场景可迁移性](open-research/强化学习模型在类似场景可迁移性.md)
+  * [游戏AI风格多样化](open-research/游戏AI风格多样化.md)
 
