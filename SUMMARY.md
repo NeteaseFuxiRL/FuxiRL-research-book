@@ -22,4 +22,5 @@
   * [回合制游戏的强化学习算法](open-research/回合制游戏的强化学习算法.md)
   * [强化学习selfplay探索问题](open-research/强化学习selfplay探索问题.md)
   * [基于值函数分布的多智能体强化学习](open-research/基于值函数分布的多智能体强化学习.md)
+  * [基于简单值函数近似的强化学习](open-research/基于简单值函数近似的强化学习.md)
   * [少样本情况下的游戏AI拟人化](open-research/少样本情况下的游戏AI拟人化研究.md)
