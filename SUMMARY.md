@@ -19,4 +19,4 @@
   * [强化学习模型可解释性](open-research/强化学习模型可解释性.md)
   * [强化学习在cache调度中的应用](open-research/强化学习在cache调度中的应用.md)
   * [潮人篮球平台开放](open-research/潮人篮球平台开放.md)
-  * [游戏AI拟人化](open-research/游戏AI拟人化.md)
+  * [少样本情况下的游戏AI拟人化](open-research/少样本情况下的游戏AI拟人化研究.md)
