@@ -21,3 +21,4 @@
   * [潮人篮球平台开放](open-research/潮人篮球平台开放.md)
   * [回合制游戏的强化学习算法](open-research/回合制游戏的强化学习算法.md)
   * [强化学习selfplay探索问题](open-research/强化学习selfplay探索问题.md)
+  * [基于值函数分布的多智能体强化学习](open-research/基于值函数分布的多智能体强化学习.md)
