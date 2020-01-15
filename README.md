@@ -1,5 +1,7 @@
 # Fuxi RL Team
 ## News
++ ***15 Jan 2019:*** Our paper "Mastering Basketball with Deep Reinforcement Learning: An Integrated Curriculum Training Approach" and "Efficient Deep Reinforcement Learning through Policy Transfer" are accepted as extended abstract by AAMAS 2020.
+
 + ***20 Dec 2019:*** Our paper "Action Relation Network: Considering the Effects of Actions in Multiagent Systems" is accepted by ICLR 2020.
 
 + ***19 Dec 2019:*** Our presentation "Building Intelligent Game Testing System in Netease MMORPG Game" is accepted by [AI Summit GDC 2020](https://schedule.gdconf.com/session/machine-learning-summit-building-intelligent-game-testing-system-in-netease-mmorpg-game/870815).
