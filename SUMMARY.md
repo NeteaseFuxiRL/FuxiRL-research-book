@@ -17,3 +17,4 @@
   * [非最优专家样本情况下的模仿学习](open-research/非最优专家样本情况下的模仿学习.md)
   * [自适应课程学习](open-research/自适应课程学习.md)
   * [强化学习模型可解释性](open-research/强化学习模型可解释性.md)
+  * [强化学习在cache调度中的应用](open-research/强化学习在cache调度中的应用.md)
