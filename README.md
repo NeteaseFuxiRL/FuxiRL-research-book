@@ -1,6 +1,6 @@
 # Fuxi RL Team
 ## News
-+ ***15 Jan 2019:*** Our paper "Mastering Basketball with Deep Reinforcement Learning: An Integrated Curriculum Training Approach" and "Efficient Deep Reinforcement Learning through Policy Transfer" are accepted as extended abstract by AAMAS 2020.
++ ***15 Jan 2020:*** Our paper "Mastering Basketball with Deep Reinforcement Learning: An Integrated Curriculum Training Approach" and "Efficient Deep Reinforcement Learning through Policy Transfer" are accepted as extended abstract by AAMAS 2020.
 
 + ***20 Dec 2019:*** Our paper "Action Relation Network: Considering the Effects of Actions in Multiagent Systems" is accepted by ICLR 2020.
 
