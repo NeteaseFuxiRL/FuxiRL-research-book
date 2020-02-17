@@ -1,5 +1,13 @@
 # Publiction
 
+## 2020
+1. Weixun Wang, Tianpei Yang, Yong Liu, Jianye Hao, Xiaotian Hao, Yujing Hu, Yingfeng Chen, Changjie Fan, Yang Gao. **Action Semantics Network: Considering the Effects of Actions in Multiagent Systems,** _Proceedings of International Conference on Learning Representations \(ICLR 2020\)_ <br> Resource: \[ [pdf](https://arxiv.org/abs/1907.11461) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website\]
+
+2. Tianpei Yang, Jianye Hao, Zhaopeng Meng, Zongzhang Zhang, Weixun Wang, Yujing Hu, Yingfeng Chen, Changjie Fan, Zhaodong Wang, Jiajie Peng. **Efficient Deep Reinforcement Learning through Policy Transfer,** _Proceedings of International Conference on Autonomous Agents and Multiagent Systems \(AAMAS 2020\)_
+ <br> Resource: \[ pdf &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website\]
+
+3. Hangtian Jia, Chunxu Ren, Yujing Hu, Yingfeng Chen, Tangjie Lv, Changjie Fan, Hongyao Tang, Jianye Hao. **Mastering Basketball with Deep Reinforcement Learning: An Integrated Curriculum Training Approach,** _Proceedings of International Conference on Autonomous Agents and Multiagent Systems \(AAMAS 2020\)_ <br> Resource: \[ pdf &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website\]
+
 ## 2019
 
 1. Yong Liu, Yujing Hu, Yang Gao, Yingfeng Chen, Changjie Fan. **Value Function Transfer for Deep Multi-Agent Reinforcement Learning Based on N-Step Returns,** _Proceedings of International Joint Conference on Artificial Intelligence \(IJCAI 2019\)_ <br> Resource: \[ [pdf](https://www.ijcai.org/proceedings/2019/0065.pdf) &emsp;&emsp;&emsp;&emsp; code &emsp;&emsp;&emsp;&emsp; website\]
